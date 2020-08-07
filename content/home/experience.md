@@ -27,9 +27,8 @@ date_format = "Jan 2006"
   description = "put forward a new struction of triaxial stabilizer&& innovate a algorithm combined with GA, PSO and fuzzy pid"
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Adaptive lgorithm
+  * Structure design
   """
 
 
