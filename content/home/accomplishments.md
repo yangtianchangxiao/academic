@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Patent for triaxial stabilizer (machine structure)"
+  organization = "Machine strcuture design"
   organization_url = ""
-  title = "Machine strcuture design"
+  title = "Patent for triaxial stabilizer (machine structure)"
   url = ""
   certificate_url = "https://pdf.maitube.com/pdf/?e=ag2MVd7MRxndga"
   date_start = "2018-10-01"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Patent for triaxial stabilizer (adaptive algorithm)"
+  organization = "Fuzzy PID optimized by PSO and GA"
   organization_url = ""
-  title = "Fuzzy PID optimized by PSO and GA"
+  title = "Patent for triaxial stabilizer (adaptive algorithm)"
   url = ""
   certificate_url = "https://pdf.maitube.com/pdf/?e=agZN0i6kFRhooa"
   date_start = "2018-10-01"
