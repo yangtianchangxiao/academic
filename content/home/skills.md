@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "list-ul"
-  icon_pack = "fab"
+  icon_pack = "nerual network"
   name = "R"
   description = "90%"
   
