@@ -17,28 +17,47 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEddO0000"
-  company = "GenCoin"
+  
+  [[experience]]
+  title = "Research assistant in Reliablity lab"
+  company = "Design a type of triaxial stabilization of the cradle head optimized in structure to minimize its size"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = ""
+  date_start = "2018-10-01"
+  date_end = "2019-09-13"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  *Design the structure based on coarse fine separation
+  *Design the adaptive algorithm (fuzzy PID optimized with a conposition of optimized PSO and GA)"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "R&t team leader"
+  company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2020-02-21"
+  date_end = "2020-08-01"
+  description = """
+  Responsibilities include:
+  
+  * Design a type of water purifier system and forecast its lifetime
+  * Design prediction algorithm using neural network including ART and radial basis neural network
+  * Design a blockchain to record situation of equipment
+"""
+  
+[[experience]]
+  title = "Participate in National College Mechanical Innovation Competition"
+  company = "Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture"
+  company_url = ""
+  location = ""
+  date_start = "2019-12-01"
+  date_end = "2020-09-19"
+  description = """
+  Responsibilities include:
+  
+  * Design the recognition algorithm
+  * Optimize PID algorithm used to control the arm
+"""
 
 +++
