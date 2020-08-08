@@ -58,6 +58,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xiao Cao is a student in University of electronic science and technology of China. Major in machine, manufacturing and automation. During the period of undergraduate, he participated in several robot competitions. His research interests include artificial intellignece and non-linear control. He have the ability to build neural networks and practiced ART neural network and RBF in the model of predicting filter lifetime. Apar form that, he also take knowledge of fuzzy PID and optimized it using PSO and GA when being research assistant in realibility lab.
