@@ -28,8 +28,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  *Design the structure based on coarse fine separation
-  *Design the adaptive algorithm (fuzzy PID optimized with a conposition of optimized PSO and GA)"""
+  * Design  the structure based on coarse fine separation
+  * Design the adaptive algorithm (fuzzy PID optimized with a conposition of optimized PSO and GA)
+"""
 
 [[experience]]
   title = "R&t team leader"
