@@ -25,8 +25,8 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Excellence in Leadership"
-    category = "10/2018 & 10/2019"
+    tag = "ExcellenceinLeadership"
+    category = "10/2018&10/2019"
     publication_type = ""
     author = ""
     exclude_featured = false
