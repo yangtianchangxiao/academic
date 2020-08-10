@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = "."
-  name = "Computer:C, Python, MATLAB"
-  description = ""
+  name = "Computer"
+  description = "C, Python, MATLAB"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Machine learning&shy;;aa"
-  description = "100%"  
+  icon = ""
+  icon_pack = ""
+  name = "Machine learning"
+  description = "Neural network and other algorithm"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = ""
+  icon_pack = ""
+  name = "Adaptive algorithm"
+  description = "Fuzzy PID, GA, PSO"
 
 # Uncomment to use emoji icons.
 # [[feature]]
