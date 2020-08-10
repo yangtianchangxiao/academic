@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -39,13 +39,32 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Design the chip"
+  organization_url = ""
+  title = "Patent for a microfluidic sensor for measuring the concentration of soluble impurities"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://pdf.maitube.com/pdf/?e=agrFycN84ktFca"
+  date_start = "2020-07-03"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "Build the system"
+  organization_url = ""
+  title = "Patent for a microfluidic chip based microbiological concentration detection system"
+  url = ""
+  certificate_url = "https://pdf.maitube.com/pdf/?e=agXUh2ShS6vvUa"
+  date_start = "2020-07-03"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = "About blockchain"
+  organization_url = ""
+  title = "Patent for a sensor data protection system based on block chain"
+  url = ""
+  certificate_url = "https://pdf.maitube.com/pdf/?e=agvRLGeKfkr6ca"
+  date_start = "2020-07-03"
+  date_end = ""
+  description = ""
 +++
