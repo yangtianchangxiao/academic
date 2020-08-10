@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Machine learning;aa"
+  name = "Machine learning&shy;;aa"
   description = "100%"  
   
 [[feature]]
