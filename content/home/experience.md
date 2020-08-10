@@ -60,5 +60,16 @@ date_format = "Jan 2006"
   * Design the recognition algorithm
   * Optimize PID algorithm used to control the arm
 """
-
+[[experience]]
+  title = "Design a reading frame that can just the  distance towards users' face"
+  company = "Use neural network and model free control to train machine arm. Mainly study about the movement and the force of it when touching pages made of different materials"
+  company_url = ""
+  location = ""
+  date_start = "2019-11-05"
+  date_end = "2020-05-05"
+  description = """
+  Responsibilities include:
+  
+  * Design neural networks
+"""
 +++
