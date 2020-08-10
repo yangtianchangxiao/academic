@@ -15,15 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "list-ul"
-  icon_pack = "nerual network"
-  name = "R"
-  description = "90%"
+  icon = ""
+  icon_pack = "."
+  name = "Computer:C, Python, MATLAB"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Machine learning;aa"
   description = "100%"  
   
 [[feature]]
