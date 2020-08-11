@@ -18,7 +18,7 @@ subtitle = ""
   icon = ""
   icon_pack = "."
   name = "Computer"
-  description = "C, Python, MATLAB"
+  description = "C, Python, MATLAB,Go(Blockchain)"
   
 [[feature]]
   icon = ""
