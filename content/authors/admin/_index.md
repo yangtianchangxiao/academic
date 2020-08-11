@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Bachelor in University of Electronic Science and Technology of China
+role: Senior in University of Electronic Science and Technology of China
 
 # Organizations/Affiliations
 organizations:
