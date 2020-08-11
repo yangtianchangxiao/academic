@@ -31,11 +31,15 @@ subtitle = ""
   icon_pack = ""
   name = "Adaptive algorithm"
   description = "Fuzzy PID, GA, PSO"
-  
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "mbedded systems"
+  name = ""
+  description = ""
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Embedded system"
   description = "Raspberry pi, STM32F4, Arduino"
 
 # Uncomment to use emoji icons.
