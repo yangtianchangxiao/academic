@@ -20,7 +20,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Research assistant in Reliablity lab"
-  company = "Design a type of triaxial stabilization of the cradle head optimized in structure to minimize its size"
+  company = "Design a type ofAdaptive Three-axis Stabilized Handheld Gimbal"
   company_url = ""
   location = ""
   date_start = "2018-10-01"
@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Design  the structure based on coarse fine separation
-  * Design the adaptive algorithm (fuzzy PID optimized with a conposition of optimized PSO and GA)
+  * Designed the mechanical structure with teammates and reduced the structure size of the three-axis stabilizer and ensured the stability of the camera posture through a dual adjustment.
+  * Independently designed the algorithm and applied an optimized fuzzy PID control algorithm based on GA and PSO
 """
 
 [[experience]]
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Participate in National College Mechanical Innovation Competition"
-  company = "Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture"
+  company = "Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture "
   company_url = ""
   location = ""
   date_start = "2019-12-01"
@@ -57,11 +57,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Design the recognition algorithm
-  * Optimize PID algorithm used to control the arm
+  * Designed the posture recognition algorithm and robotic arm operation algorithm: read a user's sitting posture information based on a Raspberry Pi camera, determine whether the sitting posture is standard according to the posture recognition algorithm, and adjust the user’s sitting posture by using the robotic arm
 """
 [[experience]]
-  title = "Design a reading frame that can just the  distance towards users' face"
+  title = "Intelligent Reading Rack Design"
   company = "Use neural network and model free control to train machine arm. Mainly study about the movement and the force of it when touching pages made of different materials"
   company_url = ""
   location = ""
@@ -70,6 +69,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Design neural networks
+  * Designed an intelligent reading rack that can capture the direction of human eyes, adjust the angle and distance between a book on the rack and human eyes to prevent myopia and realize automatic page turning of the book.
+  * Applied the Model Free Control method based on neural network to train the movement of the robot arm and control the joint mechanics of the robot arm for books of different materials
 """
 +++
