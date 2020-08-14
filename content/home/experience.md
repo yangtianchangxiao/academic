@@ -20,7 +20,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Research assistant in Reliablity lab"
-  company = "Design a type ofAdaptive Three-axis Stabilized Handheld Gimbal"
+  company = "Design a type of Adaptive Three-axis Stabilized Handheld Gimbal"
   company_url = ""
   location = ""
   date_start = "2018-10-01"
@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Designed the mechanical structure with teammates and reduced the structure size of the three-axis stabilizer and ensured the stability of the camera posture through a dual adjustment.
   * Independently designed the algorithm and applied an optimized fuzzy PID control algorithm based on GA and PSO
+  * Designed the mechanical structure with teammates and reduced the structure size of the three-axis stabilizer and ensured the stability of the camera posture through a dual adjustment.
 """
 
 [[experience]]
@@ -37,23 +37,23 @@ date_format = "Jan 2006"
   company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
   company_url = ""
   location = ""
-  date_start = "2020-02-21"
+  date_start = "2020-03-05"
   date_end = "2020-08-01"
   description = """
   Responsibilities include:
   
-  * Design a type of water purifier system and forecast its lifetime
-  * Design prediction algorithm using neural network including ART and radial basis neural network
-  * Design a blockchain to record situation of equipment
+* Participated in the design of microfluidic chip and microbial concentration detection system.
+* Participated in the design of blockchain data system.
+
 """
   
 [[experience]]
   title = "Participate in National College Mechanical Innovation Competition"
-  company = "Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture "
+  company = "Multifunctional Automatic Sitting Posture Corrector (National College Students Mechanical Design Innovation Competition)"
   company_url = ""
   location = ""
-  date_start = "2019-12-01"
-  date_end = "2020-09-19"
+  date_start = "2019-11-01"
+  date_end = "2020-10-19"
   description = """
   Responsibilities include:
   
