@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior in University of Electronic Science and Technology of China
+role: Robotics Msc in University of Bristol
 
 # Organizations/Affiliations
 organizations:
-- name: UESTC
+- name: UoB
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,14 +22,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- System Control
-- Robot
+- Decision theory
+- Robotics
 
 education:
   courses:
   - course: BE in Machine, manufacture and automation
     institution: University of electronic science and technology of China
     year: 2017
+  - course: Msc in Robotics
+    institution: University of Bristol
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
