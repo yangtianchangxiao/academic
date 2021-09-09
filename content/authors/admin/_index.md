@@ -27,12 +27,13 @@ interests:
 
 education:
   courses:
-  - course: BE in Machine, manufacture and automation
-    institution: University of electronic science and technology of China
-    year: 2017
   - course: Msc in Robotics
     institution: University of Bristol
     year: 2021
+  - course: BE in Machine, manufacture and automation
+    institution: University of electronic science and technology of China
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
