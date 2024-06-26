@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Cao 
+title: Xiao Cao (Some information is updating...)
 
 # Username (this should match the folder name)
 authors:
@@ -14,22 +14,19 @@ role: Robotics Msc in University of Bristol
 
 # Organizations/Affiliations
 organizations:
-- name: HKU ArcLab
-  url: "https://arclab.hku.hk/Cao%20xiao.html"
+- name: UoB
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Robotics LLM
-- Multi-Agent Reinforcement Learning
+- Artificial Intelligence
+- Decision theory
 - Robotics
 
 education:
   courses:
-  - course: PhD in Robotics
-    institution: University of Hong Kong
-    year: 2022
   - course: Msc in Robotics
     institution: University of Bristol
     year: 2021
@@ -65,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-- Xiao Cao is a PhD student at the University of Hong Kong, majoring in Robotics. His research interests include robotics, reinforcement learning, multi-agent reinforcement learning, and large language models (LLMs). His aim is to combine these technologies to create an Iron Man-like system.
+Xiao Cao is a student in University of Electronic Science and Technology of China. Major in Mechanical Design, Nanufacture and Automation. He achieved a GPA of 3.81/4. During the period of undergraduate, he have participated in several robot competitions. His research interests include artificial intellignece and non-linear control. He has the ability to build neural networks and have practiced ART neural network and RBF in the model of predicting filter lifetime. Apart from that, he also took knowledge of fuzzy PID and optimized it using PSO and GA when being research assistant in realibility lab. Also, he has worked on design of chip and applied for two patents.
