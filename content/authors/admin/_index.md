@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Xiao Cao is a PhD student at the University of Hong Kong, majoring in Robotics. His research interests include robotics, reinforcement learning, multi-agent reinforcement learning, and large language models (LLMs). His aim is to combine these technologies to create an Iron Man-like system.
+- Xiao Cao is a PhD student at the University of Hong Kong, majoring in Robotics. His research interests include robotics, reinforcement learning, multi-agent reinforcement learning, and large language models (LLMs). His aim is to combine these technologies to create an Iron Man-like system.
